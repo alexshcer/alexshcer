@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 💲 I develop bot on discord & design discord servers: https://discord.gg/TMgQZ7C5fN
+
+## Hobbies 
+* I love to code I mainly focus on my discord servers website or bots.
+* Physics/space is the future (Message if you are up for some talk about space)
+* Bill Gates is the best 
+
+# Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshcer)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexshcer)
+
 <!--
 **alexshcer/alexshcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
