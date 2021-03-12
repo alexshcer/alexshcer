@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 💲 I develop bot on discord & design discord servers: https://discord.gg/TMgQZ7C5fN
+- 💲 I develop bot on discord & design discord servers
+
+### Join My Server
+
+- [![Join Programmers Arena](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=banner2)](https://discord.gg/TMgQZ7C5fN)
 
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
