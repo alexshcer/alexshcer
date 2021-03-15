@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 💲 I develop bot on discord & design discord servers
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
 
 ### Join My Server
 
-[![Join Programmers Arena](https://media.discordapp.net/attachments/808259596430344202/819856766858166302/widget.png)](https://discord.gg/TMgQZ7C5fN)
+https://discord.gg/TMgQZ7C5fN
+<!--[![Join Programmers Arena](https://media.discordapp.net/attachments/808259596430344202/819856766858166302/widget.png)](https://discord.gg/TMgQZ7C5fN)--!>
 
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
