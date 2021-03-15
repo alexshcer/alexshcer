@@ -6,7 +6,6 @@
 ### Join My Server
 
 https://discord.gg/TMgQZ7C5fN
-<!--[![Join Programmers Arena](https://media.discordapp.net/attachments/808259596430344202/819856766858166302/widget.png)](https://discord.gg/TMgQZ7C5fN)--!>
 
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
@@ -31,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Join Programmers Arena](https://media.discordapp.net/attachments/808259596430344202/819856766858166302/widget.png)](https://discord.gg/TMgQZ7C5fN)
 -->
