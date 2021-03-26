@@ -3,10 +3,6 @@
 - 💲 I develop bot on discord & design discord servers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
 
-### Join My Server
-
-https://discord.gg/TMgQZ7C5fN
-
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
 * Physics/space is the future (Message if you are up for some talk about space)
