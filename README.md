@@ -1,6 +1,5 @@
-### Hi there 👋
-
-- 💲 I develop bot on discord & design discord servers
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="250" alt="AS with halo"/>
+### Hi there 👋 I am A.S.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
 
 ## Hobbies 
