@@ -5,7 +5,7 @@
 
 ## Hobbies 
 * I love to code.
-* Physics/space/thecnologies is the future (Message if you are up for some talk about space).
+* Physics/space is the future (Message if you are up for some talk about space).
 * Bill Gates is the best.
 
 # Stats:
