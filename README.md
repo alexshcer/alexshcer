@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
 
 ## Hobbies 
-* I love to code I mainly focus on my discord servers website or bots.
-* Physics/space is the future (Message if you are up for some talk about space)
-* Bill Gates is the best 
+* I love to code.
+* Physics/space/thecnologies is the future (Message if you are up for some talk about space).
+* Bill Gates is the best.
 
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshcer)
