@@ -6,7 +6,7 @@
 
 
 ## Hobbies 
-* I love to code.
+* I love to `code`.
 * Physics/space is the future (Message if you are up for some talk about space).
 * Bill Gates is the best.
 
