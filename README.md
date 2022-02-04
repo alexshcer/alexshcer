@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/68mbMBg.gif" align="left" width="250" alt="AS with halo"/>
 
-### Hi there 👋 I am A.S.
+### Hi there 👋 I am A.M.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
 
 
