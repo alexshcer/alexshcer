@@ -7,8 +7,8 @@
 
 ## Hobbies 
 * I love to `code`.
-* Tech/Space is the future (Message if you are up for some talk about space).
-* Steve Jobs, Elon Musk are MrBeast are the best.
+* AI/Space is the future (Message if you are up for some talk about new Ideas).
+* Steve Jobs, Elon Musk and MrBeast are the best.
 
 ## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshcer)
