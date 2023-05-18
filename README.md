@@ -11,7 +11,8 @@
 * Steve Jobs, Elon Musk and MrBeast are the best.
 
 ## Stats:
+<div style="text-align: center;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshcer)
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexshcer)
-
+</div>
