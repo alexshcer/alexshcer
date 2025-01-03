@@ -1,7 +1,7 @@
 <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png?raw=true" align="left" width="250" alt="Smile"/>
 
-### Hi there 👋 I am Alexshcer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexshcer" alt="alexshcer" /> </p>
+### Hi there 👋 I am ashuwhy.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuwhy" alt="ashuwhy" /> </p>
 
 
 
@@ -11,6 +11,6 @@
 * Steve Jobs, Elon Musk and MrBeast are the best.
 
 ## Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshcer&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuwhy&show_icons=true&theme=transparent) 
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexshcer&show_icons=true&theme=transparent)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=ashuwhy&show_icons=true&theme=transparent)
